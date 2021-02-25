@@ -10,7 +10,7 @@ class App extends React.Component {
       tasks: [
         { id: 0, title: "Creacte todo-react app", done: false },
         { id: 1, title: "Deploy the application", done: true },
-        { id: 2, title: "Ущипнуть настю за попку", done: false },
+        { id: 2, title: "Start learning Vue3", done: false },
       ],
     };
   }
